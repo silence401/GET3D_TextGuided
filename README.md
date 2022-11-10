@@ -1,3 +1,5 @@
+## Text-Guided part
+
 ## GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images (NeurIPS 2022)<br><sub>Official PyTorch implementation </sub>
 
 ![Teaser image](./docs/assets/get3d_model.png)
